@@ -1,5 +1,5 @@
 platform :ios, '7.0'
+pod 'Firebase/Core'
 
-target 'Template' do
-       pod 'Firebase'
-end
+
+
